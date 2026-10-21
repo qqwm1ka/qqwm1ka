@@ -5,6 +5,8 @@
 <p align="center"><strong>Small details. Useful software.</strong><br />
 Web projects, Python tools and Discord bots.</p>
 
+<p align="center"><strong>English</strong> · <a href="README.ru.md">Русский</a></p>
+
 ---
 
 ### What I build
