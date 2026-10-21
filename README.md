@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/header.svg" alt="qqwm1ka — web projects, Python tools and Discord bots" width="100%" />
+</p>
 
-<!--
-**qqwm1ka/qqwm1ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><strong>Small details. Useful software.</strong><br />
+Web projects, Python tools and Discord bots.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I build
+
+- **Web** — websites, storefronts and dashboards with a focus on clear interfaces.
+- **Tools** — Python utilities and automation for everyday work.
+- **Communities** — Discord bots and integrations.
+
+### My toolkit
+
+`Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `Git`
+
+### Behind the graph
+
+Most of my work lives in private repositories. The contribution graph includes anonymized private activity; source code and project details stay private.
+
+<p align="center"><sub>Built with care, one commit at a time.</sub></p>
